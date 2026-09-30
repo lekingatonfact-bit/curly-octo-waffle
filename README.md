@@ -1,5 +1,5 @@
 mkdir -p /home/claude
-cat > /home/claude/README.md << 'EOF'
+cat > /README.md << 'EOF'
 # Global Alucovit Construction — Site vitrine
 
 Site web vitrine de **Global Alucovit Construction**, entreprise spécialisée dans la menuiserie aluminium, le verre et les façades vitrées à Douala, Cameroun.
